@@ -1,5 +1,5 @@
 {
-  "name": "crud-example",
+  "name": "serverless-nodejs-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,7 @@
     "body-parser": "^1.19.0",
     "data-parser": "^1.0.1",
     "express": "^4.17.1",
-    "mysql2": "^2.1.0"
+    "mysql2": "^2.1.0",
+    "serverless-http": "^2.3.2"
   }
 }
